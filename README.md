@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaoyi(Leo) Lu</h1>
 <h3 align="center">A graduate student in the M.Eng. program for Computer Science at McMaster University.</h3>
+<h5 align="center">🎓 Previously earned a B.S. in Mathematics, Computer Science, and Data Science from the University of Wisconsin-Madison.</h5>
 
 - 🔭 I’m currently working on [Multi-Model Fusion for Image Classification](https://github.com/ShaoyiLu/ML-Project/tree/main/Multi-Model%20Fusion%20for%20Robust%20Image%20Classification)
 
