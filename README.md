@@ -23,7 +23,7 @@
   **lushaoyi521@gmail.com**
 
 - 📄 Learn more about my experiences  
-  [Resume](https://drive.google.com/file/d/19an5c0HnwpFB1R8OPNOVIQ-7qW_m7mWn/view?usp=drive_link)
+  [Resume](https://drive.google.com/file/d/1oF-nY1uv7fBHtDusP6Cn2Ntu4o2D1-D5/view?usp=sharing)
 
 - ⚡ Fun fact  
   **I can train machine learning models, but I still cannot train myself to wake up early.**
