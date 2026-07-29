@@ -1,18 +1,32 @@
-<h1 align="center">Hi 👋, I'm Shaoyi(Leo) Lu</h1>
-<h3 align="center">Currently pursuing an M.Eng. in Computer Science at McMaster University.</h3>
-<h3 align="center">🎓 Previously earned a B.S. in Mathematics, Computer Science, and Data Science from the University of Wisconsin-Madison.</h3>
+<h1 align="center">Hi, I'm Shaoyi (Leo) Lu</h1>
 
-- 🔭 I’m currently working on [Multi-Model Fusion for Image Classification](https://github.com/ShaoyiLu/ML-Project/tree/main/Multi-Model%20Fusion%20for%20Robust%20Image%20Classification)
+<h3 align="center">
+  M.Eng. student in Computing and Software at McMaster University
+</h3>
 
-- 🌱 I’m currently learning **🧠 **Algorithms & Optimization** | 🎨 **Computer Animation & Vision** | 📊 **Big Data & Databases** 🤖 **Machine Learning & AI** | 🎲 **Stochastic Processes** | 🏗 **Software Design****
+<h3 align="center">
+  B.S. in Mathematics, Computer Science, and Data Science from the University of Wisconsin-Madison
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShaoyiLu](https://github.com/ShaoyiLu)
+---
 
-- 📫 How to reach me **lushaoyi521@gmail.com**
+- 🔭 I’m currently working on  
+  [Multi-Model Fusion for Robust Image Classification](https://github.com/ShaoyiLu/ML-Project/tree/main/Multi-Model%20Fusion%20for%20Robust%20Image%20Classification)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kBwSFt_gxW-s-SuoiGYWonG4loOQHPGG/view?usp=drive_link](https://drive.google.com/file/d/1kBwSFt_gxW-s-SuoiGYWonG4loOQHPGG/view?usp=drive_link)
+- 🌱 I’m currently learning and exploring  
+  **Algorithms & Optimization** | **Computer Animation & Vision** | **Big Data & Databases** | **Machine Learning & AI** | **Stochastic Processes** | **Software Design**
 
-- ⚡ Fun fact **I can train ML models, but I can’t train myself to wake up early.**
+- 👨‍💻 All of my projects are available at  
+  [https://github.com/ShaoyiLu](https://github.com/ShaoyiLu)
+
+- 📫 How to reach me  
+  **lushaoyi521@gmail.com**
+
+- 📄 Learn more about my experiences  
+  [Resume / Experience Documents](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+
+- ⚡ Fun fact  
+  **I can train machine learning models, but I still cannot train myself to wake up early.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
