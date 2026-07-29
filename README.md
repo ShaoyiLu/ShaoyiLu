@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Shaoyi (Leo) Lu</h1>
+<h1 align="center">Hi 👋, I'm Shaoyi (Leo) Lu</h1>
 
 <h3 align="center">
-  M.Eng. student in Computing and Software at McMaster University
+  Currently pursuing an M.Eng. in Computer Science at McMaster University.
 </h3>
 
 <h3 align="center">
-  B.S. in Mathematics, Computer Science, and Data Science from the University of Wisconsin-Madison
+  🎓 Previously earned a B.S. in Mathematics, Computer Science, and Data Science from the University of Wisconsin-Madison.
 </h3>
 
 ---
@@ -17,13 +17,13 @@
   **Algorithms & Optimization** | **Computer Animation & Vision** | **Big Data & Databases** | **Machine Learning & AI** | **Stochastic Processes** | **Software Design**
 
 - 👨‍💻 All of my projects are available at  
-  [https://github.com/ShaoyiLu](https://github.com/ShaoyiLu)
+  [My GitHub](https://github.com/ShaoyiLu)
 
 - 📫 How to reach me  
   **lushaoyi521@gmail.com**
 
 - 📄 Learn more about my experiences  
-  [Resume / Experience Documents](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+  [Resume](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
 
 - ⚡ Fun fact  
   **I can train machine learning models, but I still cannot train myself to wake up early.**
